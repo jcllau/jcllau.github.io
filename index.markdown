@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: About
-permalink: /about/
+title: Home
+permalink: /index/
 ---
 
 # Hello there!
