@@ -41,7 +41,7 @@ minima:
   social_links:
     github: jcllau
     linkedin: jan-lau-203910111
-  # skin: dark
+  skin: solarized-dark
   
 # Build settings
 theme: minima
