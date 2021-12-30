@@ -41,6 +41,8 @@ minima:
   social_links:
     github: jcllau
     linkedin: jan-lau-203910111
+  skin: dark
+  
 # Build settings
 theme: minima
 plugins:
