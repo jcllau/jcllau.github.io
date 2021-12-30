@@ -2,7 +2,6 @@
 layout: home
 title: Home
 permalink: /home/
-published: false
 ---
 
 # Hello there!
