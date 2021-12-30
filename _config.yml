@@ -32,6 +32,11 @@ author:
 # github_username:  jcllau
 # linkedin_username: jan-lau-203910111
 
+header_pages:
+  - index.markdown
+  - about.markdown
+  - contact.markdown
+
 minima:
   social_links:
     github: jcllau
