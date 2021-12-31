@@ -9,7 +9,6 @@ permalink: /experience/
 
 
 # Experience
-<object data="assets/JanLau_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
-
+[Click here to view my Curriculum Vitae](assets/JanLau_CV.pdf)
 
 
