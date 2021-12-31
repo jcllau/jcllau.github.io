@@ -36,12 +36,14 @@ header_pages:
   - index.markdown
   - about.markdown
   - contact.markdown
+  - research.markdown
+  - experience.markdown
 
 minima:
   social_links:
     github: jcllau
     linkedin: jan-lau-203910111
-  skin: solarized-dark
+  skin: solarized
   
 # Build settings
 theme: minima
