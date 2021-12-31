@@ -9,6 +9,6 @@ permalink: /experience/
 
 
 # Experience
-[Click here to view my Curriculum Vitae](../assets/JanLau_CV.pdf)
+[Click here to view my Curriculum Vitae](href)
 
 
