@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-I am a MASc Candidate working on wearable devices for older adults and a mamber of the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo. My research focus is to modify an existing lower-limb exoskeleton to be suitable geriatric users and develop ways to improve interaction with this kind of device. In 2021, I developed a novel protocol for improving familiarity in interacting with lower-limb exoskeletons in able-bodied, first-time users, and currently am in the works of expanding this study to geriatric users and patients.
+I am a MASc Candidate working on wearable devices for older adults and a member of the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo. My research focus is to modify an existing lower-limb exoskeleton to be suitable geriatric users and develop ways to improve interaction with this kind of device. In 2021, I developed a novel protocol for improving familiarity in interacting with lower-limb exoskeletons in able-bodied, first-time users, and currently am in the works of expanding this study to geriatric users and patients.
 
 My research interests include wearable robotics, optimal control, assistive technologies, wearable robotics acceptance in elderly people, and human movement.
 
