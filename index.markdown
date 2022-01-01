@@ -7,4 +7,4 @@ title: Home
 ---
 
 # Jan C. L. Lau
-## MASc Candidate. Graduate Student Researcher.
+MASc Candidate. Graduate Student Researcher.
