@@ -5,5 +5,6 @@
 layout: home
 title: Home
 ---
+![professionalphoto](../assets/img/professionalphoto.jpg){: style="float: left"}
 # Jan C. L. Lau
 ### MASc Candidate. Graduate Student Researcher.
