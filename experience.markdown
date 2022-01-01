@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: cv_page
 title: Education and Experience
 permalink: /experience/
 ---
@@ -9,6 +9,5 @@ permalink: /experience/
 
 
 # Experience
-[Click here to view my Curriculum Vitae](data)
 
 
