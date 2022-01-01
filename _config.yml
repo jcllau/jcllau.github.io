@@ -20,7 +20,7 @@
 
 title: Jan C. L. Lau
 author:
-  name: Jan C. L. Lau
+  # name: Jan C. L. Lau
   email: jan.lau@uwaterloo.ca
 # description: >- # this means to ignore newlines until "baseurl:"
   # Write an awesome description for your new site here. You can edit this
