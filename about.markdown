@@ -4,18 +4,18 @@ title: About
 permalink: /about/
 ---
 
-# Who am I?
+## Who am I?
 - MASc Candidate specializing in Biomedical Engineering at the University of Waterloo
 - Member of the Canada Excellence Research Chair Human-Centred Robotics and Machine Intelligence (CERC HCRMI) Lab
 
-# Research Focus
+## Research Focus
 - Lower-limb robotic exoskeletons for the geriatric population
 
-# Research Interests
-- Wearable Robotics
-- Optimal Control
-- Assistive Technologies
-- Wearable Robotics Acceptance in Elderly People
+## Research Interests
+- Wearable robotics
+- Optimal control
+- Assistive technologies
+- Wearable robotics acceptance in elderly people
 - Human movement
 
 <!---
