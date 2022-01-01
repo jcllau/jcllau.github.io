@@ -5,6 +5,6 @@
 layout: home
 title: Home
 ---
-
+![](../assets/working_on_exo.jpg){:class="img-responsive"}
 # Jan C. L. Lau
 ### MASc Candidate. Graduate Student Researcher.
