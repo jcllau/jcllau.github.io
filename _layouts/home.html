@@ -7,9 +7,14 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}--->
   
-  <img src="../assets/img/professionalphoto.jpg" width=350>
-
-  {{ content }}
+  <div class="row">
+      <div class="column">
+          <img src="../assets/img/professionalphoto.jpg" width=350>
+      </div>
+      <div class="column">
+          {{ content }}
+      </div>
+  </div>
 
   {% if site.paginate %}
     {% assign posts = paginator.posts %}
