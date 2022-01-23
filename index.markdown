@@ -11,5 +11,5 @@ title: Home
 <br/><br/>
 <br/><br/>
 # Jan C. L. Lau
-MASc Candidate working on Wearable Robotics
+MASc Candidate working on wearable robotics
 
