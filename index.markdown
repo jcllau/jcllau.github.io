@@ -11,5 +11,5 @@ title: Home
 <br/><br/>
 <br/><br/>
 # Jan C. L. Lau
-MASc Candidate working on wearable robotics
+MASc Candidate working on wearable robotics for geriatric users
 
