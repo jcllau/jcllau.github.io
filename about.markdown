@@ -3,13 +3,16 @@ layout: page
 title: About
 permalink: /about/
 ---
-![working_on_exo](../assets/img/working_on_exo.JPG){: style="float: left; margin-right: 1em;" width="350px"}
+![working_on_exo](../assets/img/working_on_exo.JPG){: style="float: left; margin-right: 1em;" width="300px"}
 
-I am a MASc Candidate working on wearable devices for geriatric users and a member of the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo.
+I am a Doctoral Student and a member of the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo.
 
-My research focus is to modify an existing lower-limb exoskeleton to be suitable for older adults and develop ways to improve human-exoskeleton interaction. In 2021, I developed a novel protocol for improving familiarity in interacting with lower-limb exoskeletons in able-bodied, first-time users, and currently am in the works of expanding this protocol to geriatric users and patients.
+For my master's thesis, I developed a novel tutorial and used optimal control as two approaches to improve the interaction between a human and a lower-limb robotic exoskeleton, and identified ways on how my work can be applied to the geriatric population. 
 
-Research interests include wearable robotics, optimal control, assistive technologies, wearable robotics acceptance in elderly people, and human movement.
+![karate_sidekick](../assets/img/karate_sidekick.JPG){: style="float: right; margin-right: 1em;" width="300px"}
+Safety and stability are crucial towards the development of wearable robotic devices, especially the ones intended for the older adults. Combining my interest in martial arts, my doctoral research focus is to analyze the stability and robustness of karate motions. The goal is to develop new criterion related to system modelling of humanoid robots and/or robotic lower-limb exoskeletons.
+
+Research interests (keywords): wearable robotics, optimal control, assistive technologies, wearable devices acceptance in elderly people, human movement, stability, martial arts.
 
 
 <!---
