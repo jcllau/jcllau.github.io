@@ -5,7 +5,7 @@ permalink: /dissemination/
 ---
 ## Publication
 
-Jan C. L. Lau and Katja Mombaur. "Preliminary Study on a Novel Protocol for Improving Familiarity with a Lower-Limb Robotic Exoskeleton in Able-Bodied, First-Time Users." *Front. Robot. AI* 8:785251, 2022. doi: [10.3389/frobt.2021.785251](https://doi.org/10.3389/frobt.2021.785251)
+**Jan C. L. Lau** and Katja Mombaur. "Preliminary Study on a Novel Protocol for Improving Familiarity with a Lower-Limb Robotic Exoskeleton in Able-Bodied, First-Time Users." *Front. Robot. AI* 8:785251, 2022. doi: [10.3389/frobt.2021.785251](https://doi.org/10.3389/frobt.2021.785251)
 
 ## Conference Presentations
 
