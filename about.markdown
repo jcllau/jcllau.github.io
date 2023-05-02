@@ -9,15 +9,16 @@ I am a Doctoral Student and a member of the Human-Centred Robotics and Machine I
 
 For my master's thesis, I developed a novel tutorial and used optimal control as two approaches to improve the interaction between a human and a lower-limb robotic exoskeleton, and identified ways on how my work can be applied to the geriatric population. 
 
-
-
-
-
-
-
-
-
-
+\
+\
+\
+\
+\
+\
+\
+\
+\
+\
 
 ![karate_sidekick](../assets/img/karate_sidekick.JPG){: style="float: right; margin-right: 1em;" width="300px"}
 Safety and stability are crucial towards the development of wearable robotic devices, especially the ones intended for the older adults. Combining my interest in martial arts, my doctoral research focus is to analyze the stability and robustness of karate motions. The goal is to develop new criterion related to system modelling of humanoid robots and/or robotic lower-limb exoskeletons.
