@@ -35,8 +35,8 @@ author:
 header_pages:
   - index.markdown
   - about.markdown
-  - research.markdown
-  - experience.markdown
+  - dissemination.markdown
+  - cv.markdown
   - contact.markdown
 
 
