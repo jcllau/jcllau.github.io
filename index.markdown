@@ -12,3 +12,6 @@ title: Home
 <br/><br/>
 # Jan C. L. Lau
 Doctoral Student in Human-Centred Robotics
+<br/><br/>
+
+Will be at Karlsruhe Institute of Technology in October 2023
