@@ -9,7 +9,7 @@ permalink: /dissemination/
 
 ## Conference Presentations
 
-**Jan. C. L. Lau** and Katja Mombaur. “Towards crutch-less exoskeleton-assisted geriatric sit-to-stand motions – an experimental and optimization-based study.” Accepted to the International Society of Biomechanics-Japanese Society of Biomechanics Conference (ISB-JSB 2023). Fukuoka, Japan. August 2023.
+**Jan C. L. Lau** and Katja Mombaur. “Towards crutch-less exoskeleton-assisted geriatric sit-to-stand motions – an experimental and optimization-based study.” Accepted to the International Society of Biomechanics-Japanese Society of Biomechanics Conference (ISB-JSB 2023). Fukuoka, Japan. August 2023.
 
 **Jan C. L. Lau** and Katja Mombaur. “Motion analysis and motion synthesis on crutch-less sit-to-stand for geriatric users with an exoskeleton using optimal control.” Accepted to the TGCS Symposium on Computer Simulation in Biomechanics (ISB TGCS 2023). Kyoto, Japan. July 2023.
 
