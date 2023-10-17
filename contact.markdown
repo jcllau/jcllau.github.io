@@ -4,13 +4,14 @@ title: Contact
 permalink: /contact/
 ---
 
-**Office:** E7 6468, University of Waterloo
+**Office:** Rm 017, Building 50.34, Karlsruhe Institute of Technology
 
-**Email:** jan.lau@uwaterloo.ca
+**Email:** jan.lau@kit.edu
 
 **ResearchGate** [https://www.researchgate.net/profile/Jan-C-L-Lau](https://www.researchgate.net/profile/Jan-C-L-Lau)
 
 **LinkedIn:** [https://www.linkedin.com/in/jan-lau-203910111/](https://www.linkedin.com/in/jan-lau-203910111/)
 
-**UWaterloo Scholar:** [https://uwaterloo.ca/scholar/jcllau](https://uwaterloo.ca/scholar/jcllau)
+**ORCID**
+    [https://orcid.org/my-orcid?orcid=0009-0001-6443-0523](https://orcid.org/my-orcid?orcid=0009-0001-6443-0523)
 
