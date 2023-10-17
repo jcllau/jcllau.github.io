@@ -11,7 +11,6 @@ title: Home
 <br/><br/>
 <br/><br/>
 # Jan C. L. Lau
-Doctoral Student in Human-Centred Robotics
+Biomechanics Lab Manager and Doctoral Student in BioRobotics Lab, Institute of Anthropomatics and Robotics (IAR), Karlsruhe Institute of Technology (KIT)
 <br/><br/>
 
-Will be at Karlsruhe Institute of Technology in October 2023
