@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![working_on_exo](../assets/img/working_on_exo.JPG){: style="float: left; margin-right: 1em;" width="300px"}<br><br><br><br>
+![working_on_exo](../assets/img/working_on_exo.JPG){: style="float: left; margin-right: 1em;" width="300px"}<br><br>
 
 Under the supervision of Prof. Dr. Katja Mombaur, I am a currently a Doctoral Student and Biomechanics Lab Manager of the BioRobotics Lab in the Institute of Anthropomatics and Robotics (IAR) at Karlsruhe Institute of Technology (KIT), Germany.
 
