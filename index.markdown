@@ -13,7 +13,6 @@ title: Home
 # Jan C. L. Lau
 Biomechanics Lab Manager and Doctoral Student
 <br/><br/> BioRobotics Lab
-<br/><br/> Institute of Anthropomatics and Robotics (IAR)
-<br/><br/> Karlsruhe Institute of Technology (KIT)
-<br/><br/>
+Institute of Anthropomatics and Robotics (IAR)
+Karlsruhe Institute of Technology (KIT)
 
