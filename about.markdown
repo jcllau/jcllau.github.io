@@ -5,7 +5,7 @@ permalink: /about/
 ---
 ![working_on_exo](../assets/img/working_on_exo.JPG){: style="float: left; margin-right: 1em;" width="300px"}<br><br>
 
-Under the supervision of Prof. Dr. Katja Mombaur, I am a currently a Doctoral Student and Biomechanics Lab Manager of the BioRobotics Lab in the Institute of Anthropomatics and Robotics (IAR) at Karlsruhe Institute of Technology (KIT), Germany.
+Under the supervision of Prof. Dr. Katja Mombaur, I am a currently a Doctoral Student and Motion Capture Lab Manager of the BioRobotics Lab in the Institute of Anthropomatics and Robotics (IAR) at Karlsruhe Institute of Technology (KIT), Germany.
 
 I was a Master's student in the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo, Canada. For my master's thesis, I developed a novel tutorial and used optimal control as two approaches to improve the interaction between a human and a lower-limb robotic exoskeleton, and identified ways on how my work can be applied to the geriatric population. <br><br><br><br>
 

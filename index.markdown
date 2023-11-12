@@ -11,7 +11,7 @@ title: Home
 <br/><br/>
 <br/><br/>
 # Jan C. L. Lau
-Biomechanics Lab Manager and Doctoral Student
+Motion Capture Lab Manager and Doctoral Student
 <br/><br/> BioRobotics Lab
 <br/> Institute of Anthropomatics and Robotics (IAR)
 <br/> Karlsruhe Institute of Technology (KIT)
