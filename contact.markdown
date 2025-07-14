@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-**Office:** Rm 017, Building 50.34, Karlsruhe Institute of Technology
+**Office:** InformatiKOM 1, Karlsruhe Institute of Technology
 
 **Email:** jan.lau@kit.edu
 

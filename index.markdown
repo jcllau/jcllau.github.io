@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-![professionalphoto](../assets/img/professionalphoto.jpg){: style="float: left; margin-right: 1em;" width="350px"}
+![professionalphoto](../assets/img/photo.jpg){: style="float: left; margin-right: 1em;" width="350px"}
 <br/><br/>
 <br/><br/>
 <br/><br/>

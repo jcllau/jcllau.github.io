@@ -10,9 +10,9 @@ Under the supervision of Prof. Dr. Katja Mombaur, I am a currently a Doctoral St
 I was a Master's student in the Human-Centred Robotics and Machine Intelligence (HCRMI) Lab at the University of Waterloo, Canada. For my master's thesis, I developed a novel tutorial and used optimal control as two approaches to improve the interaction between a human and a lower-limb robotic exoskeleton, and identified ways on how my work can be applied to the geriatric population. <br><br><br><br>
 
 ![karate_sidekick](../assets/img/karate_sidekick.JPG){: style="float: right; margin-right: 1em;" width="300px"}<br><br><br>
-Safety and stability are crucial towards the development of robotic systems, especially the ones intended to interact with older adults. Combining my interest in martial arts, my doctoral research focuses on the analysis of stability and robustness of karate motions. The goal is to develop new criterion related to system modelling of humanoid robots and/or robotic lower-limb exoskeletons.<br><br><br><br>
+Safety and stability are crucial towards the development of robotic systems, especially the ones intended to interact with older adults. Combining my interest in martial arts, my doctoral research focuses on the analysis of stability and robustness of karate motions. The goal is to develop new criterion related to system modelling of humanoid robots and robotic lower-limb exoskeletons.<br><br><br><br>
 
-Research interests (keywords): martial arts, human movement, biomechanics, optimal control, stability, wearable robotics, assistive technologies, wearable devices acceptance in elderly people.
+Research interests (keywords): stabilty, martial arts, human movement, biomechanics, optimal control, wearable robotics, assistive technologies, wearable devices acceptance in elderly people.
 
 
 <!---
