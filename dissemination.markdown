@@ -3,7 +3,9 @@ layout: page
 title: Dissemination
 permalink: /dissemination/
 ---
-## Publication
+## Publications
+
+**Jan C. L. Lau** and Katja Mombaur. "Can lower-limb exoskeletons support sit-to-stand motions in frail elderly without crutches? A study combining optimal control and motion capture." *Front. Neurorobot.* 18:1348029, 2024. doi: [10.3389/fnbot.2024.1348029](https://doi.org/10.3389/fnbot.2024.1348029)
 
 **Jan C. L. Lau** and Katja Mombaur. "Preliminary Study on a Novel Protocol for Improving Familiarity with a Lower-Limb Robotic Exoskeleton in Able-Bodied, First-Time Users." *Front. Robot. AI* 8:785251, 2022. doi: [10.3389/frobt.2021.785251](https://doi.org/10.3389/frobt.2021.785251)
 
